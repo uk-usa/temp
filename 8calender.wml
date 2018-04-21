@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+ <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+ <wml>
+
+ <!-- This is card 1 -->
+  <card id="card1" title="Card 1">
+  
+   <p>
+JANUARY 2018<br/>
+<table columns="7">
+<b><tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr>
+<tr><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>
+<tr><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td></tr>
+<tr><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td></tr>
+<tr><td>29</td><td>30</td><td>31</td></tr> 
+</table>
+<br />
+ <anchor>
+        <go href="#card2"/>
+        NEXT
+      </anchor><br/>
+</p>
+
+  </card>
+
+<!-- This is card 2 -->
+  <card id="card2" title="Card 2">
+   
+   <p>FEBRUARY</p>
+ 
+
+<table columns="7">
+<b><tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+<tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr>
+<tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr>
+<tr><td>26</td><td>27</td><td>28</td></tr>
+</table>
+<br />
+ <anchor>
+        <go href="#card1"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card3"/>
+        NEXT
+      </anchor>
+
+   </card>
+
+<!-- This is card 3 -->
+  <card id="card3" title="Card 3">
+ <p>MARCH</p>
+
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+<tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr>
+<tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr>
+<tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td></tr>
+</table>
+<br />
+ <anchor>
+        <go href="#card2"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card4"/>
+        NEXT
+      </anchor>
+
+   </card>
+<!-- This is card 4 -->
+  <card id="card4" title="Card 4">
+  
+   <p>APRIL</p>
+  <table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td><td><td><td>1</td></tr>
+<tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr>
+<tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
+<tr><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td></tr>
+<tr><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td></tr>
+<tr><td>30</td></tr>
+</table>
+ <anchor>
+        <go href="#card3"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card5"/>
+        NEXT
+      </anchor><br/>
+</table>
+   </card>
+<!-- This is card 5 -->
+  <card id="card5" title="Card 5">
+   <p>MAY</p>
+<table columns="7">
+<b><tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr>
+<tr><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td></tr>
+<tr><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr>
+<tr><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td></tr>
+<tr><td>28</td><td>29</td><td>30</td><td>31</td></tr></table>
+ <anchor>
+        <go href="#card4"/>
+        PREV
+      </anchor>&nbsp;&nbsp;&nbsp;&nbsp;
+ <anchor>
+        <go href="#card6"/>
+        NEXT
+      </anchor>
+   </card>
+<!-- This is card 6 -->
+  <card id="card6" title="Card 6">
+   <p>JUNE</p>
+<table columns="7">
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
+<tr><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td></tr>
+<tr><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td></tr>
+<tr><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr><br /></table>
+ <anchor>
+        <go href="#card5"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card7"/>
+        NEXT
+      </anchor>
+   </card>
+   <!-- This is card 7 -->
+  <card id="card7" title="Card 7">
+   <p>JULY</p>
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td><td>1</td><td>2</td><td>3</td></tr>
+<tr><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
+<tr><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td></tr>
+<tr><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td></tr>
+<tr><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr><br /></table>
+ <anchor>
+        <go href="#card6"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card8"/>
+        NEXT
+      </anchor>
+   </card>
+   <!-- This is card 8 -->
+  <card id="card8" title="Card 8">
+   <p>AUGUST</p>
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+<tr><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr>
+<tr><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>></tr>
+<tr><td>20</td<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td></tr>
+<tr><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td></tr></table>
+ <anchor>
+        <go href="#card7"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card9"/>
+        NEXT
+      </anchor>
+   </card>
+ <!-- This is card 9 -->
+  <card id="card9" title="Card 9">
+   <p>SEPTEMBER</p>
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td><td><td>1</td><td>2</td></tr>
+<tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr>
+<tr><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+<tr><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr>
+<tr><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr></table>
+ <anchor>
+        <go href="#card9"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card10"/>
+        NEXT
+      </anchor>
+   </card>
+ <!-- This is card 10 -->
+  <card id="card10" title="Card 10">
+   <p>OCTOBER</p>
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr>
+<tr><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>
+<tr><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td></tr>
+<tr><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td></tr>
+<tr><td>29</td><td>30</td><td>31</td></tr></table>
+ <anchor>
+        <go href="#card9"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card11"/>
+        NEXT
+      </anchor>
+   </card>
+ <!-- This is card 11 -->
+  <card id="card11" title="Card 11">
+   <p>NOVEMBER</p>
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td>1</td><td>2</td><td>3</td><td>4</td></tr>
+<tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
+<tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr>
+<tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr>
+<tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr></table>
+ <anchor>
+        <go href="#card10"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card12"/>
+        NEXT
+      </anchor>
+   </card>
+ <!-- This is card 12 -->
+  <card id="card12" title="Card 12">
+   <p>DECEMBER</p>
+<table columns="7">
+<tr><td>Sun</td><td>Mon</td><td>Tue</td><td>Wed</td><td>Thu</td><td>Fri</td><td>Sat</td><tr/>
+<tr><td><td><td><td><td><td>1</td><td>2</td></tr>
+<tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr>
+<tr><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+<tr><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr>
+<tr><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr>
+<tr><td>31</td></tr></table>
+ <anchor>
+        <go href="#card11"/>
+        PREV
+      </anchor>
+ <anchor>
+        <go href="#card1"/>
+        NEXT
+      </anchor>
+   </card>
+      
+</wml>
